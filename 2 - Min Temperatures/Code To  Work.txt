@@ -1,0 +1,1 @@
+!python MinTemperatures.py 1800.csv > Mintemps.txt

@@ -1,0 +1,1 @@
+!python WordFrequency.py book.txt > wordcount.txt

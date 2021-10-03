@@ -1,0 +1,1 @@
+!python FriendsByAge.py fakefriends.csv > friendsbyage.txt

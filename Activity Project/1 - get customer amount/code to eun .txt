@@ -1,0 +1,1 @@
+!python Customer-Total-Amount.py customer-orders.csv > customer_amount.txt

@@ -81,7 +81,7 @@ The parts covered by the course<br/>
 
 ### Certificate
 [Taming Big Data with MapReduce and Hadoop - Hands On! Course Link](https://www.udemy.com/certificate/UC-c1d35475-fa8a-4415-93bc-f15452cdcc76/)
-![certificate](https://github.com/Abdelrhman-Yassein/Programming-for-Data-Science-with-Python/blob/main/certificate.PNG)
+![certificate](https://github.com/Abdelrhman-Yassein/Taming-Big-Data-with-MapReduce-and-Hadoop---Hands-On/blob/main/Taming%20Big%20Data%20with%20MapReduce%20and%20Hadoop%20-%20Hands%20On!%20.jpg?raw=true)
 
 ## Contact
 

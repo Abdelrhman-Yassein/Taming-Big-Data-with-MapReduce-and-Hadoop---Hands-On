@@ -31,7 +31,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Course</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -88,7 +88,7 @@ The parts covered by the course<br/>
 ######  **Abdelrhman Yassein  :**  [LinkedIn](https://www.linkedin.com/in/Abdelrhman-Yassein/) - [GitHub](https://github.com/Abdelrhman-Yassein?tab=repositories)
 
 
-Project Link: [Taming Big Data with MapReduce and Hadoop - Hands On Course Projects ](https://github.com/Abdelrhman-Yassein/Taming-Big-Data-with-MapReduce-and-Hadoop---Hands-On)
+Course Link: [Taming Big Data with MapReduce and Hadoop - Hands On Course Projects ](https://github.com/Abdelrhman-Yassein/Taming-Big-Data-with-MapReduce-and-Hadoop---Hands-On)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
